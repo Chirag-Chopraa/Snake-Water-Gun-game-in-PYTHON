@@ -1,5 +1,5 @@
 # Snake-Water-Gun-game-in-PYTHON
-This is a simple childhood game called SNAKE, WATER, GUN game coded in python 3
+This is a simple childhood game called SNAKE, WATER, GUN game(also well-played as stone,paper,scissors) coded in python 3
 You will also get score board in right upper corner of the command prompt or terminal
 
 Modules used :-
